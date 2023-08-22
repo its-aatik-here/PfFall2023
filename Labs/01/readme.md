@@ -1,4 +1,5 @@
-![image](https://github.com/its-aatik-here/PfFall2023/assets/142867794/22043764-ae62-43e4-8617-698d556df69e)# scratch assignment
+# scratch assignment
+![image](https://github.com/its-aatik-here/PfFall2023/assets/142867794/22043764-ae62-43e4-8617-698d556df69e)
 ![image](https://github.com/its-aatik-here/PfFall2023/assets/142867794/0ab95428-c604-4582-aa4c-be2baab55a11)
 ![image](https://github.com/its-aatik-here/PfFall2023/assets/142867794/4dc168a5-222c-4756-933d-3445d214dea8)
 ![image](https://github.com/its-aatik-here/PfFall2023/assets/142867794/c9e75dc0-8f5b-47d6-bc5d-d6e0c8cd8364)
