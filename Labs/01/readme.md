@@ -29,5 +29,4 @@ and print the sale price.
 A bus leaves the university to take students on a field trip. The bus travels 10 kilometers south, 10 kilometers west,
 another 5 kilometers south and 15 kilometers north with the fuel consumption of 2 liters/km. Using scratch
 calculate how many kilometers it has covered and how much fuel it has consumed on a field trip?
-
-
+![image](https://github.com/its-aatik-here/PfFall2023/assets/142867794/59600a5d-09b5-49d2-95d0-3abd5905cbb3)
