@@ -30,3 +30,16 @@ A bus leaves the university to take students on a field trip. The bus travels 10
 another 5 kilometers south and 15 kilometers north with the fuel consumption of 2 liters/km. Using scratch
 calculate how many kilometers it has covered and how much fuel it has consumed on a field trip?
 ![image](https://github.com/its-aatik-here/PfFall2023/assets/142867794/59600a5d-09b5-49d2-95d0-3abd5905cbb3)
+## question # 6
+For 4 weeks, Ali volunteered as a helper for swimming classes. The first week, he volunteered for 8 hours. He
+volunteered for 12 hours in the second week, and another 12 hours in the third week. The fourth week, he
+volunteered for 9 hours. Using scratch calculate how many hours did he volunteer per week, on average?
+![image](https://github.com/its-aatik-here/PfFall2023/assets/142867794/c9d04f2c-4f2d-40c7-8b4d-c258d456a63f)
+![image](https://github.com/its-aatik-here/PfFall2023/assets/142867794/c1105c03-2084-40e5-9ecd-d8c395850bda)
+## question # 7
+Famous math’s Square roots can also be used to find the distance between two points in a 2-dimensional or 3-
+dimensional system for movie or video game production. We have the formula for the distance D between two
+points (x1, y1) and (x2, y2) in 2 dimensions which is given by:
+D = √((x2 – x1)^2 + (y2 – y1)^2)
+Find the distance D using scratch.
+![image](https://github.com/its-aatik-here/PfFall2023/assets/142867794/af912ce4-fd7c-45aa-8461-32dc23232cb0)
